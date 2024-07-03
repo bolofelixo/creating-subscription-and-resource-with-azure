@@ -2,6 +2,7 @@
 https://portal.azure.com/#@felixochibologmail.onmicrosoft.com/resource/subscriptions/d3afc489-49af-427b-9a76-44700a9f1abd/resourceGroups/felixlab2/providers/Microsoft.Storage/storageAccounts/felixlab1storage/overview
 
 Description
+
 As part of my Course Careers training, I completed a project focused on creating a resource group in Microsoft Azure. This project involved several key steps:
 
 1. Accessing the Azure Portal: Navigated to the Azure portal and accessed the resource group creation interface.
